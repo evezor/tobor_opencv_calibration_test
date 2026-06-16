@@ -1,3 +1,5 @@
 opencv-python
 numpy
-svgwriter
+svgwrite
+qrcode[pil]
+pillow
